@@ -118,7 +118,6 @@ LCD: "AGUARDE..."
 semaforo-arduino/
 ├── semaforo.ino       # Código principal
 ├── README.md          # Este arquivo
-└── circuito.png       # Diagrama do circuito (Fritzing)
 ```
 
 ---
